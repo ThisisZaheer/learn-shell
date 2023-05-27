@@ -1,3 +1,4 @@
 ls -l
 pwd
-yum list installed | grep vim
+#yum list installed | grep vim
+echo Hello DevOps
