@@ -1,3 +1,3 @@
 echo Hello World
-exit
+exit 777
 echo Discard
