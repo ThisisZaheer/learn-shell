@@ -12,3 +12,5 @@ Here are the topics of the bash shell
 6. Loops
 7. Quotes
 8. Exit Status
+9. Inputs
+10. SED Editors
