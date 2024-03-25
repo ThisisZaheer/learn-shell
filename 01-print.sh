@@ -16,8 +16,7 @@ echo Hello World
 # \e[0m -> Disable the color
 # Inputs needs to be in Double Quotes (single quotes also fine, but prefer double quotes)
 
-
-
+#execute
 
 echo -e "\e[31mHello DevOps\e[0m"
 echo -e "\e[32mHello DevOps\e[0m"
