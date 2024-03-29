@@ -3,4 +3,4 @@
 echo Name of the Script - $0
 echo First Argument - $1
 echo Second Argument -$2
-echo Tkhird Argument - $3
+echo Third Argument - $3
