@@ -1,6 +1,6 @@
 # 0,1,2,3,....n,*,#
 
-echo $0
-
-echo $1
-echo $2
+echo Name of the Script - $0
+echo First Argument - $1
+echo Second Argument -$2
+echo Tkhird Argument - $3
