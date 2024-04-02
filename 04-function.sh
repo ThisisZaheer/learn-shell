@@ -21,3 +21,13 @@ sample_sum() {
 }
 
 sample_sum 175 375
+
+# Inside main program all special vars(0-n, *, #) which are passed to the script are not accessible inside the functions
+
+Tail() {
+
+  echo Subtraction of $3 & $5 is $(($5-$3))
+
+}
+
+Tail 140 240
