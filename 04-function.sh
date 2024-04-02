@@ -26,7 +26,7 @@ sample_sum 175 375
 
 Tail() {
 
-  echo "Subtraction of $3 & $5 is $(($5-$3))"
+  echo "Subtraction of $1 & $2 is $(($1-$2))"
 
 }
 
