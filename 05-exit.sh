@@ -1,15 +1,15 @@
 sample2() {
 
   echo Hell01
-  return 150
+  return 100
   echo Hello2
 }
 
 sample2
-echo Exit status of function -$?
+echo Exit status of function - $?
 
 echo Hello1
-exit 250
+exit 122
 echo Hello2
 
 # Exit the script using exit command to command line
