@@ -6,6 +6,7 @@ sample2() {
 }
 
 sample2
+echo Exit status of function -$?
 
 echo Hello1
 exit 250
